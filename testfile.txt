@@ -6,3 +6,5 @@ first
 git
 file
 This is my first text file
+
+this is edited in the same branch
